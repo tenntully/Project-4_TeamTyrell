@@ -19,8 +19,9 @@ Project4-MusicML-DecadePrediction.ipynb (This file is the ML model classificatio
 Spotify_Predictor_App.ipynb (This is predictor app.  It uses the ML models and scalers from the previous code. Output can be run in a cell but ideally should use Voila for a formatted app that is locally hosted.  To use Voila: pip install voila)
 SKLearn - Song Recommendations.ipynb (This file is the ML clustering code to provide song recommendations from the Spotify songs sample.)
 Project4 - Postgres SQL Setup.ipynb  (This file is the Postgres SQL Setup code to add to the ML modeling files in case a database setup is desired.  This can be added if the music_spofity or music songs will be added or changed to the sample over time.)
-Resources/music_spotify.csv
-Resources/music.csv
+resources/music_spotify.csv (big spotify sample 170k songs)
+resources/data.csv (alternate big spotify sample 170k songs)
+resources/music.csv (MachineHack Hackathon sample dataset)
 
 Tableau Visualizations: https://public.tableau.com/app/profile/fatima.mumin/viz/SPOTIFYTEMPODANCEABILITYPROJECT4/Dashboard1
 
